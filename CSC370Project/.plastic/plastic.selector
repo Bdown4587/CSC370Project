@@ -1,0 +1,4 @@
+repository "CSC370Project@Bdowner316@cloud"
+  path "/"
+    br "/main"
+    co "/main"
